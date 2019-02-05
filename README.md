@@ -12,3 +12,5 @@ Large time step increases result in a large error.
 - Bootstrap4
 - jQuery3
 - BabylonJS
+
+<img src="preview.png" width=800 height=600>
